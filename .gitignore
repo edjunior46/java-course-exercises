@@ -4,4 +4,5 @@ bin/
 .vscode/
 /.vscode/
 .vscode/settings.json
-/README.md
+*/README.md
+*/*/README.md
