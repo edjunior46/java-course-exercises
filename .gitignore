@@ -1,6 +1,11 @@
+*.class
+*/*/.class
 .class
 /.class
 bin/
+bin/*
+*/bin/
+*/*/bin/
 .vscode/
 /.vscode/
 .vscode/settings.json
