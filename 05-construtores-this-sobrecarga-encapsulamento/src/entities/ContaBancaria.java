@@ -43,7 +43,7 @@ public class ContaBancaria {
     public void retirada(double quantiaRetirada) {
         double quantiaRetiradaTaxa = quantiaRetirada + 5.00;
         if (this.saldo < quantiaRetiradaTaxa) {
-            System.out.println("OPERAÇÃO NÃO REALIZADA: Saldo insuficiente");
+            System.out.println("OPERACAO NAO REALIZADA: Saldo insuficiente");
         } else {
             this.saldo -= quantiaRetiradaTaxa;
         }
