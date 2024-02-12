@@ -17,3 +17,7 @@ bin/*
 */*/out/*
 */db.properties
 */*/db.properties
+*/.gitignore
+*/*/.gitignore
+*/.iml
+*/*/.iml
