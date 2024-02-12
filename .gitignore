@@ -15,3 +15,5 @@ bin/*
 */*/.idea/*
 */out/*
 */*/out/*
+*/db.properties
+*/*/db.properties
