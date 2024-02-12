@@ -11,3 +11,5 @@ bin/*
 .vscode/settings.json
 */README.md
 */*/README.md
+*/.idea/*
+*/*/.idea/*
