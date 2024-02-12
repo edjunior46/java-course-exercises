@@ -13,3 +13,5 @@ bin/*
 */*/README.md
 */.idea/*
 */*/.idea/*
+*/out/*
+*/*/out/*
