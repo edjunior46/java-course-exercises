@@ -21,3 +21,4 @@ bin/*
 */*/.gitignore
 */.iml
 */*/.iml
+*/*/*/.idea/*
